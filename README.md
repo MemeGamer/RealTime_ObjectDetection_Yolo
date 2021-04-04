@@ -5,7 +5,7 @@ Requirments:
 OpenCv,
 numpy
 
-if you want the realtime Object to audio 
+if you want the realtime Object to audio:
 gtts,
 os,
 playsound,
